@@ -10,4 +10,3 @@ Collapsible element with React.js and Webpack
 4. New browser window should open automatically.
 
 Don't forget to [follow me in Instagram](https://www.instagram.com/mahabub.hossain_/).
-

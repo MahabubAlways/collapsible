@@ -1,13 +1,13 @@
 {
-  "name": "webpack-starter",
+  "name": "collapsible-starter",
   "version": "1.0.0",
-  "description": "Webpack project starter.",
+  "description": "Collapsible project starter.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
     "prod": "webpack -p"
   },
-  "author": "Petr Tichy",
+  "author": "Mahabub Hossain",
   "license": "ISC",
   "devDependencies": {
     "babel": "6.5.2",
